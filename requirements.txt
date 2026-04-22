@@ -1,4 +1,4 @@
-requests==2.25.0
-Pillow==8.1.0
-urllib3==1.26.4
-cryptography==3.3.1
+requests==74ea7cf7a6a27a4eeb2ae24e162bcc942a6706d5
+Pillow==11918eac0628ec8ac0812670d9838361ead2d6a4
+urllib3==644124ecd0b6e417c527191f866daa05a5a2056d
+cryptography==94a50a9731f35405f0357fa5f3b177d46a726ab3
